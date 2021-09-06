@@ -43,8 +43,8 @@ This repository is having all the codes used in Inventory Management System Proj
  
  
 **Overview** :
- it is based on dictionary and i have used conditions
- and als0 have created a bill.
+ it is based on dictionary and json file even i have used conditions
+ and have also created a bill.
  
  
  
