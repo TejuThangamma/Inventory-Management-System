@@ -3,7 +3,8 @@ This repository is having all the codes used in Inventory Management System Proj
 
 
 
- About the Repository ? 
+ About the Repository 
+ 
  This project contains all the codes of the Inventory Management System used in a Super Market for billing.
  
 
