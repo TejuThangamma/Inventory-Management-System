@@ -8,6 +8,9 @@ This repository is having all the codes used in Inventory Management System Proj
 
 
 
+
+
+
  **About the Repository** :
  This project contains all the codes of the Inventory Management System used in a Super Market for billing.
  
@@ -19,8 +22,10 @@ This repository is having all the codes used in Inventory Management System Proj
  
  
  
+ 
+ 
 
-it contains 4 files   :
+*it contains 4 files   :
  records.json file
  ,sale.json files
  ,adding items code
