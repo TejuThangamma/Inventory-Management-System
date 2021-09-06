@@ -44,7 +44,7 @@ This repository is having all the codes used in Inventory Management System Proj
  
 **Overview** :
  it is based on dictionary and json file even i have used conditions
- and have also created a bill.
+ and have also created a bill.In adding item files i have added new items to the list ,in total there are 30 items with 10 attributes each.In Purchase file there is the code of the bill and sales updates.
  
  
  
