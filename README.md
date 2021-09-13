@@ -56,5 +56,5 @@ This repository is having all the codes used in Inventory Management System Proj
  
  
  **About me** :
- My name is Teju Thangamma and i'm currently pursuing Bachelor of Enfineering in Computer Science in Coorg Institute of Technology. I am a final year student and this is my first Python Project and i am doing online internship on AI/ML in Elite Techno Groups.
+ My name is Teju Thangamma and i'm currently pursuing Bachelor of Engineering in Computer Science in Coorg Institute of Technology. I am a final year student and this is my first Python Project and i am doing online internship on AI/ML in Elite Techno Groups.
  
